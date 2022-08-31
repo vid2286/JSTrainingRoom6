@@ -1,0 +1,25 @@
+{
+  "name": "jstrainingroom6",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldline/JS-Training.git"
+  },
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1",
+    "parcel": "^2.4.1"
+  },
+  "keywords": [],
+  "browserslist": "last 5 Chrome versions, last 5 Firefox versions",
+  "jest": {}
+}
